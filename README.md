@@ -1,6 +1,4 @@
-<div align="center">
-  Interactive Lab: Deploying FortiGate Next-Generation Firewall in Microsoft Azure
-</div>
+# Interactive Lab: Deploying FortiGate Next-Generation Firewall in Microsoft Azure
 
 In this lab, I deployed a FortiGate Next-Generation Firewall within the Microsoft Azure cloud environment to create a realistic network scenario. The lab involved setting up various cloud resources, including servers that were publicly accessible, to simulate a dynamic cybersecurity landscape.
 
